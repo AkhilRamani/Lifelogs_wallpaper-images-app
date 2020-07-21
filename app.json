@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "life-style",
-    "slug": "life-style",
+    "name": "lifelogs",
+    "slug": "lifelogs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }

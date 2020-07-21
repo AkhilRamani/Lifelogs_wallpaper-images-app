@@ -1,0 +1,2 @@
+export const defaultUrl = 'https://api.unsplash.com/photos?page=1&client_id=M7jJWBH_7Jj81KlxxnVhdRxgmHi1hRbRo3ZC0MjBFSY'
+export const getPhotosURL = (photoName, page = 1) => `https://api.unsplash.com/search/photos?client_id=M7jJWBH_7Jj81KlxxnVhdRxgmHi1hRbRo3ZC0MjBFSY&page=${page}&query=${photoName}`
